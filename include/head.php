@@ -8,7 +8,7 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
-<link href="https://fonts.googleapis.com/css?family=Montserrat|Parisienne|Pacifico" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Parisienne|Pacifico|Ubuntu|IBM+Plex+Sans" rel="stylesheet">
 <style type="text/css">
 	/* Styles de base */
 	body

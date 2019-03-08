@@ -38,23 +38,7 @@
 	</div>
 </nav>
 <header>
-	<!--
-	<div id="carousel" class="carousel slide col-lg-12 col-md-12 col-xs-12 slider" data-ride="carousel" >
-		<div class="carousel-inner">
-			<div class="item active">
-				<img alt="" src="/assets/pics/plein-air2.jpg">
-			</div>
-			<div class="item">
-				<img alt="" src="/assets/pics/plein-air3.jpg">
-			</div>
-			<div class="item">
-				<img alt="" src="/assets/pics/plein-air4.jpg">
-			</div>
-		</div>
-		<a class="left carousel-control" href="#carousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-		<a class="right carousel-control" href="#carousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-	</div>
-	 -->
+
 	<div id="carousel-example-generic" class="carousel slide slider" data-ride="carousel">
 		<!-- Indicators -->
 		<ol class="carousel-indicators">
@@ -83,7 +67,7 @@
 				</div>
 			</div>
 			 
-			 <a data-scroll-nav="1" class="see-more hidden-sm hidden-xs hidden-md"><span class="wheel"></span></a>
+			 <div class="arrow text-center"><a href="#film-poster"><img src="/assets/img/arrow.gif" alt="arrow"></a></div>
 			 
 		</div>
 		<!-- Controls  -->
