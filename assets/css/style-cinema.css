@@ -1062,6 +1062,7 @@ p.text-justify
 button.btn.btn-success
 {
 	margin-left: 15px !important;
+	margin-top: 40px;
 	
 }
 
@@ -1086,4 +1087,12 @@ button.btn.btn-success
 .synopsis
 {
 	padding-left: 0 !important;
+}
+
+.author-page
+{
+	width: 515px !important;
+	height: 300px !important;
+	object-fit: cover;
+
 }

@@ -3,8 +3,8 @@
 	<div class="text-center"><h2>Dimitri Beg</h2></div>
 </div>
 <div class="modal-body">
-	<p>
-		<a href="#" class="thumbnail"><img class="poster" src="/assets/img/author2.jpg" alt="author"></a>
+	<p class="text-center">
+		<a href="#" class=""><img class="author-page" src="/assets/img/author2.jpg" alt="author"></a>
 	</p>
 	<div class="text-center"><h3>Biographie :</h3></div>
 	<blockquote>

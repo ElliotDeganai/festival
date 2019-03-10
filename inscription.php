@@ -41,13 +41,16 @@
 										<label  class="col-md-12 col-sm-12 col-xs-12">S'inscrire à la newsletter <input type="checkbox"></label>
 									</p>
 								</div>
+								
+								<div class="form-group">
 								<p>
 									<label for="precisions" class="col-md-12 col-sm-12 col-xs-12">Si "Autre", veuillez préciser:</label>
 									<br>
 									<textarea name="precisions" id="precisions" class="col-md-12 col-sm-12 col-xs-12" rows="4"></textarea>
 									<br>
 								</p>
-								<br>
+								</div>
+								
 								<p>
 									<button class="btn btn-success">Envoyer</button>
 								</p>

@@ -215,7 +215,7 @@
 									<div class="title-section"><h3 class="title-section">La biographie</h3></div>
 					<div class="col-md-12 col-sm-6 col-xs-12 article">
 					<div class="film-card">
-						<a href="/page_film.php" class=""><img class="col-side" src="/assets/img/author6.jpg" alt="poster5">
+						<a data-toggle="modal" href="/page_auteur.php" data-target="#infos" class=""><img class="col-side" src="/assets/img/author6.jpg" alt="poster5">
 						
 				<span class="trailer text-center glyphicon glyphicon-play-circle"></span>					
 						
