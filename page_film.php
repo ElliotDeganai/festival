@@ -10,7 +10,7 @@
 				<div class="media">
 					<div class="text-center"><h2 class="page-header">Le sens des sentiments</h2></div>
 					<div class="media-left justify">
-						<iframe class="video col-md-12 col-sm-12 col-xs-12" src="http://www.youtube.com/embed/VmnIeLmjuHA" frameborder="0" allowfullscreen></iframe>
+						<a href="#" class=""><img class="poster" src="/assets/img/film1.jpg" alt="poster1"></a>
 					</div>
 				</div>
 				<br>
@@ -26,11 +26,11 @@
 				<div class="text-center"><h2 class="page-header">Les séances</h2></div>
 				<div class="col-md-12 col-sm-12 col-xs-12">
 					<ul class="nav nav-pills nav-justified">
-						<li class="active"><a href="#poster1" data-toggle="tab">Jour 1</a></li>
+						<li class="active"><a href="#poster1" data-toggle="tab">08 Mars 2019</a></li>
 						<li class="divider"></li>
-						<li><a href="#poster2" data-toggle="tab">Jour 2</a></li>
+						<li><a href="#poster2" data-toggle="tab">09 Mars 2019</a></li>
 						<li class="divider"></li>
-						<li><a href="#poster3" data-toggle="tab">Jour 3</a></li>
+						<li><a href="#poster3" data-toggle="tab">10 Mars 2019</a></li>
 					</ul>
 					<hr>
 					<div class="row">
@@ -77,7 +77,8 @@
 					<div class="row">
 						<div class="col-md-6 col-sm-6 col-xs-6">
 							<button type="button" class="btn btn-success">
-								<span class="glyphicon glyphicon-ok-sign" style="color:#fff"><a href="inscription.php" style="color:#fff">Cliquez ici pour vous inscrire</a></button>
+								<span class="glyphicon glyphicon-ok-sign"><a href="inscription.php"> Inscription !</a></span>
+							</button>
 							</div>
 						</div>
 					</div>

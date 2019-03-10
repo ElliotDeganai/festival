@@ -1,7 +1,7 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-autohide">
 	<div class="container">
 		<!-- Brand and toggle get grouped for better mobile display -->
-		<div class="row">
+		
 			
 		<div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -27,18 +27,22 @@
 						<a href="http://dev.festival.com/"><span class="glyphicon glyphicon-home"></span></a>
 					</li>
 					<li><a href="liste.php">Liste des films</a></li>
-					<li><a href="newsletter.php">Newsletter</a></li>
+					<li><a href="newsletter.php">News</a></li>
 					<li><a href="contact.php">Contact</a></li>
-					<li><a href="inscription.php" id="inscription">Inscription</a></li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
-		</div>
+		
 		<!-- /.container-fluid -->
 	</div>
 </nav>
-<header>
 
+
+
+<header>
+<a href="inscription.php"><div class="sticky text-center"><div class="sticky-inscription">S'inscrire pour une séance!</div></div>
+
+</a>
 	<div id="carousel-example-generic" class="carousel slide slider" data-ride="carousel">
 		<!-- Indicators -->
 		<ol class="carousel-indicators">

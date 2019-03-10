@@ -74,9 +74,10 @@ div.col-md-2
 
 .poster
 {
-	width: 100px;
-	height: 100%;
+	width: 400px;
+	height: 250px;
 	object-fit: cover;
+	padding-bottom: 40px;
 }
 
 .cine-img
@@ -93,6 +94,7 @@ div.col-md-2
 	background-color: #fff !important;
 	border-color: #fff !important;
 	color: #000 !important;
+	font-weight: bold;
 }
 
 @media all and (min-width:768px)
@@ -633,7 +635,7 @@ height: 100%;
 #carousel-small .carousel-inner
 {
 	max-width: none !important;
-	height: 500px !important;
+	height: 400px !important;
 	object-fit: cover;
 }
 
@@ -769,11 +771,12 @@ h2.page-header {
 {
     font-size: 4rem;
     z-index: 30;
-	position: relative;
-	bottom: 125px;
 	padding: 0;
 	margin: 0;
 	color: #eeeeee;
+	position: absolute !important;
+	top: calc(50% - 20px) !important;
+	left: calc(50% - 20px) !important;
 }
 
 .next-film
@@ -787,7 +790,7 @@ h2.page-header {
     font-size: 4rem;
    
     z-index: 30;
-	position: absolute !important;
+
 }
 
 .list-entity
@@ -938,4 +941,132 @@ font-weight: bold !important;
 a:focus, a:hover {
     color: #23527c;
     text-decoration: none !important;
+}
+
+.film-card
+{
+	position: relative !important;
+	padding: 0;
+	
+	
+}
+
+.news-first img
+{
+	width: 500px !important;
+	height: 300px !important;
+	object-fit: cover;
+}
+
+.news img
+{
+	width: 300px !important;
+	height:200px !important;
+	object-fit: cover;
+}
+
+.news-title-first
+{
+	text-align: left;
+	font-size: 2.5em;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: bold;	
+}
+
+.news-title
+{
+	text-align: left;
+	font-weight: bold;
+	
+}
+
+.news-date
+{
+	text-align: left;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.news-section .col-md-12
+{
+	margin-bottom: 40px;
+}
+
+.news-section .col-md-6
+{
+	padding-left: 0;
+}
+
+.news .glyphicon-film
+{
+	font-size: 2rem;
+    z-index: 30;
+	color: #eeeeee;
+	position: absolute !important;
+	top: auto;
+	bottom: 0px !important;
+	left: 20px !important;
+}
+
+.news
+{
+    position: relative;
+}
+
+div.sticky {
+
+  position: fixed;
+  z-index: 50;
+  top: 50px;
+  right: 0;
+  color: #fff;
+  padding: 20px;
+  height: 200px;
+  width: 290px;
+
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 2.6rem !important;
+	box-shadow: 0 0 20px 2px rgba(0,0,0,0.5);
+	text-shadow: 2px 2px 4px #000000;
+    background-image: url(/assets/img/author3.jpg);
+    background-repeat: no-repeat;
+	background-size: auto 100%;
+
+}
+
+.sticky:before
+{
+	content: ' ';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.4);
+	z-index: 60;
+}
+
+.sticky-inscription
+{
+	position: absolute;
+	z-index: 70;
+	top: 50px;	
+}
+
+p.text-justify
+{
+	padding-bottom: 40px;
+}
+
+button.btn.btn-success
+{
+	margin-left: 15px !important;
+	
+}
+
+.btn-success a{
+    color: #fff !important;
+	text-transform: uppercase;
+	font-weight: bold;
 }
