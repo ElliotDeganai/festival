@@ -10,12 +10,13 @@
 				<div class="media">
 					<div class="text-center"><h2 class="page-header">Le sens des sentiments</h2></div>
 					<div class="media-left justify">
-						<a href="#" class=""><img class="poster" src="/assets/img/film1.jpg" alt="poster1"></a>
+						<a href="#" class=""><img class="movie-card" src="/assets/img/film1.jpg" alt="poster1">
+						<span class="trailer text-center glyphicon glyphicon-play-circle"></span>
+						</a>
 					</div>
 				</div>
-				<br>
-				<br>
-				<div class="col-md-12 col-sm-12 col-xs-12">
+
+				<div class="col-md-12 col-sm-12 col-xs-12 synopsis">
 					<h3>Synopsis</h3>
 					<p class="text-justify">
 						Rivales à la vie et à la scène, la célèbre tragédienne de la Comédie-Française Adriana Lecouvreur et la Princesse de Bouillon sont toutes deux éprises de l’officier Maurice de Saxe. Dans les coulisses du théâtre, la jalousie de l’une conduira à la mort de l’autre, empoisonnée par un bouquet qu’elle croyait recevoir de son amant.Pourquoi aller voir cet opéra ?  Le trio grandiose Anna Netrebko, Anita Rachvelishvili et Piotr Beczała se livrent aux jalousies amoureuses dans la nouvelle production de Sir David McVicar. Des coulisses du célèbre théâtre français aux somptueuses demeures de bal, la vie parisienne prend possession de la scène Met.

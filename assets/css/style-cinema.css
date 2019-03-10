@@ -1070,3 +1070,20 @@ button.btn.btn-success
 	text-transform: uppercase;
 	font-weight: bold;
 }
+
+.movie-card
+{
+	width: 515px !important;
+	height: 270px !important;
+	object-fit: cover;
+}
+
+.media-left
+{
+	position: relative;
+}
+
+.synopsis
+{
+	padding-left: 0 !important;
+}
