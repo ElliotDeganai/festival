@@ -9,11 +9,13 @@
 			<div class="col-md-6 col-sm-12 col-xs-12">
 				<div class="media">
 					<div class="text-center"><h2 class="page-header">Le sens des sentiments</h2></div>
-					<div class="media-left justify">
-						<a href="#" class=""><img class="movie-card" src="/assets/img/film1.jpg" alt="poster1">
-						<span class="trailer text-center glyphicon glyphicon-play-circle"></span>
+					
+					<div class="film-card">
+						<a href="#"  class=""><img class="col-side" src="/assets/img/film1.jpg" alt="poster5">
+				<i class="trailer glyphicon glyphicon-play-circle text-center"></i>						
 						</a>
-					</div>
+						</div> 
+						
 				</div>
 
 				<div class="col-md-12 col-sm-12 col-xs-12 synopsis">

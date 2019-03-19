@@ -20,8 +20,8 @@
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
-    <div class="item active">
-      <img class="img-responsive img-fit" src="/assets/img/film11.jpg" alt="cinema-stand1">
+    <div class="item active" style="background-image:url(/assets/img/film11.jpg); height:100%">
+
 								<div class="carousel-caption carousel-small">
 								<div class="date">SORTIE LE 04 Mars</div>
 									<h5>J'ai toujours rêvé</h5>
@@ -29,8 +29,7 @@
 								</div>
     </div>
 
-    <div class="item">
-      <img class="img-responsive img-fit" src="/assets/img/film8.jpg" alt="cinema-stand2">
+    <div class="item" style="background-image:url(/assets/img/film8.jpg); height:100%">
 	  								<div class="carousel-caption carousel-small">
 								<div class="date">SORTIE LE 05 Mars</div>
 									<h5>Les Cadavres sans costard</h5>
@@ -38,8 +37,7 @@
 								</div>
     </div>
 
-    <div class="item">
-      <img class="img-responsive img-fit" src="/assets/img/film9.jpg" alt="cinema-stand3">
+    <div class="item" style="background-image:url(/assets/img/film9.jpg); height:100%">
 	  								<div class="carousel-caption carousel-small">
 								<div class="date">SORTIE LE 06 Mars</div>
 									<h5>J'ai rencontré le Diable</h5>
@@ -60,7 +58,7 @@
 </div>
 	</div>
 				
-				<div class="col-md-4">
+				<div class="col-md-4 col-sm-12 col-xs-12">
 				<div class="title-section"><h3 class="title-section">Prochainement</h3></div>
 				
 				<ul class="list-entity">
@@ -124,23 +122,23 @@
 				<div  class="container">
 					<div class="text-center"><h2 class="page-header">Les prochains films</h2></div>
 					
-					<div class="col-md-8">
+					<div class="col-md-8 col-sm-12 col-xs-12">
 					<div class="title-section"><h3 class="title-section">A ne pas manquer</h3></div>
-					<div class="col-md-3 col-sm-6 col-xs-12 article col-centered">
+					<div class="col-md-3 col-sm-3 col-xs-12 article col-centered">
 						<a href="/page_film.php" class=""><img class="" src="/assets/img/film2.jpg" alt="poster3"></a>
 						<a class="meta-title" href="#">Le sens des sentiments</a>
 						<div class="author">
 							Dimitri Beg
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 article col-centered">
+					<div class="col-md-3 col-sm-3 col-xs-12 article col-centered">
 						<a href="/page_film.php" class=""><img class="" src="/assets/img/film1.jpg" alt="poster4"></a>
 						<a  class="meta-title"href="#">L'homme idéal</a>
 						<div class="author">
 							Stéphane Edouard
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 article col-centered">
+					<div class="col-md-3 col-sm-3 col-xs-12 article col-centered">
 						<a href="/page_film.php" class=""><img class="" src="/assets/img/film4.jpg" alt="poster5"></a>
 						<a class="meta-title" href="#">Le deuxième sexe</a>
 						<div class="author">
@@ -148,7 +146,7 @@
 						</div>
 					</div>
 					
-					<div class="col-md-3 col-sm-6 col-xs-12 article col-centered">
+					<div class="col-md-3 col-sm-3 col-xs-12 article col-centered">
 						<a href="/page_film.php" class=""><img class="" src="/assets/img/film3.jpg" alt="poster5"></a>
 						<a class="meta-title" href="#">Le capital</a>
 						<div class="author">
@@ -184,26 +182,26 @@
 					
 					<div class="col-md-8">
 									<div class="title-section"><h3 class="title-section">Le top des auteurs</h3></div>
-					<div class="col-md-3 col-sm-6 col-xs-12 article col-centered">
+					<div class="col-md-3 col-sm-3 col-xs-12 article col-centered">
 						<a data-toggle="modal" href="/page_auteur.php" data-target="#infos" class=""><img class="" src="/assets/img/author2.jpg" alt="author1"></a>
 						<div class="author">
 							Dimitri Beg
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 article col-centered">
+					<div class="col-md-3 col-sm-3 col-xs-12 article col-centered">
 						<a data-toggle="modal" href="/page_auteur.php" data-target="#infos" class=""><img class="" src="/assets/img/author1.jpg" alt="author2"></a>
 						<div class="author">
 							Lily Daft
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 article col-centered">
+					<div class="col-md-3 col-sm-3 col-xs-12 article col-centered">
 						<a data-toggle="modal" href="/page_auteur.php" data-target="#infos" class=""><img class="" src="/assets/img/author4.jpg" alt="author3"></a>
 						<div class="author">
 							Nicole Poirier
 						</div>
 					</div>
 					
-					<div class="col-md-3 col-sm-6 col-xs-12 article col-centered">
+					<div class="col-md-3 col-sm-3 col-xs-12 article col-centered">
 						<a data-toggle="modal" href="/page_auteur.php" data-target="#infos" class=""><img class="" src="/assets/img/author5.jpg" alt="author3"></a>
 						<div class="author">
 							Vincent Pouillon

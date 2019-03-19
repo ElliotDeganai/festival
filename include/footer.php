@@ -34,6 +34,9 @@
 	</div>
 </section>
 </section>
+
+
+
 <footer class="footer">
 <div id="network" class="col-md-12 col-sm-12 col-xs-12">
 	<div class="text-center">
@@ -51,6 +54,9 @@
 	<strong><a href="propos.php" class="text-size" style="color:#fff;"> À propos de </a></strong>
 	<strong><a href="cgu.php" class="text-size" style="color:#fff;"> Conditions générales d'utilisation </a></strong>
 </div>
+
+<a href="inscription.php"><div class="sticky-bottom text-center"><div class="sticky-inscription-bottom">S'inscrire pour une séance!</div></div>
+
 </footer>
 <script src="/assets/js/jquery.js"></script>
 <script src="/assets/js/bootstrap.js"></script>

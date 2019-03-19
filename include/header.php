@@ -40,7 +40,7 @@
 
 
 <header>
-<a href="inscription.php"><div class="sticky text-center"><div class="sticky-inscription">S'inscrire pour une séance!</div></div>
+<a href="inscription.php"><div class="sticky-top text-center"><div class="sticky-inscription-top">S'inscrire pour une séance!</div></div>
 
 </a>
 	<div id="carousel-example-generic" class="carousel slide slider" data-ride="carousel">
@@ -52,20 +52,20 @@
 		</ol>
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner" role="listbox">
-			<div class="item active">
-				<img class="img-responsive img-fit" src="/assets/img/plein-air2.jpg" alt="cinema-stand1">
+			<div class="item active" style="background-image:url(/assets/img/plein-air2.jpg); height:100%">
+				
 				<div class="carousel-caption">
 					<h4>Venez découvrir nos différents stands!</h4>
 				</div>
 			</div>
-			<div class="item">
-				<img class="img-responsive img-fit" src="/assets/img/plein-air3.jpg" alt="cinema-stand2">
+			<div class="item" style="background-image:url(/assets/img/plein-air3.jpg); height:100%">
+				
 				<div class="carousel-caption">
 					<h4>Profitez de nos séances toute la journée!</h4>
 				</div>
 			</div>
-			<div class="item">
-				<img class="img-responsive img-fit" src="/assets/img/plein-air4.jpg" alt="cinema-stand3">
+			<div class="item" style="background-image:url(/assets/img/plein-air4.jpg); height:100%">
+				
 				<div class="carousel-caption">
 					<h4>Des moments de partage et convivialité inégalés!</h4>
 				</div>
