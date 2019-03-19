@@ -1052,7 +1052,7 @@ font-weight: bold !important;
 .carousel-small h5
 {
 	text-align: left;
-	font-size: 2em;
+	font-size: 2.2rem;
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-weight: bold;
 	text-shadow: 2px 2px 4px #000000;
@@ -1063,7 +1063,7 @@ font-weight: bold !important;
 .carousel-small .description
 {
 	text-align: left;
-	font-size: 6em;
+	font-size: 1.4rem !important;
 	text-shadow: 2px 2px 4px #000000;
 	
 }	
