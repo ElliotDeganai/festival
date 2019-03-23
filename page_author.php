@@ -1,12 +1,16 @@
 <div class="modal-header">
 	<button type="button" class="close" data-dismiss="modal">&times;</button>
-	<div class="text-center"><h2>Dimitri Beg</h2></div>
+	<div class="text-center">
+		<h2>Dimitri Beg</h2>
+	</div>
 </div>
 <div class="modal-body">
 	<p class="text-center">
 		<a href="#" class=""><img class="author-page" src="/assets/img/author2.jpg" alt="author"></a>
 	</p>
-	<div class="text-center"><h3>Biographie :</h3></div>
+	<div class="text-center">
+		<h3>Biographie :</h3>
+	</div>
 	<blockquote>
 		<p>
 			Dimitri Beg est le quatrième et dernier garçon d'une famille d'origine corse et provençale. Son père est un polytechnicien devenu officier de l'armée coloniale, ayant atteint le grade de général en fin de carrière et sa mère, femme au foyer, est une lectrice autodidacte1.  

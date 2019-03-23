@@ -9,7 +9,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-sm-12 col-xs-12 text-center">
-						<div class="text-center"><h2 class="page-header">Ou nous trouver?</h2></div>
+						<div class="text-center">
+							<h2 class="page-header">Ou nous trouver?</h2>
+						</div>
 						<address class="thumbnail">
 							<p>
 								Vous pouvez nous trouver à cette adresse :
@@ -24,7 +26,9 @@
 						<a href="#" class="cine-img"><img class="cine-img img-rounded" src="/assets/img/adress.jpg" alt="map"></a>
 					</div>
 					<div  class="col-md-6 col-sm-12 col-xs-12">
-						<div class="text-center"><h2 class="page-header">Contactez-nous!</h2></div>
+						<div class="text-center">
+							<h2 class="page-header">Contactez-nous!</h2>
+						</div>
 						<form method="post" action="#">
 							<fieldset>
 								<legend>
@@ -52,7 +56,7 @@
 									<textarea name="precisions" id="precisions" class="col-md-12 col-sm-12 col-xs-12 form-control" rows="4"></textarea>
 								</p>
 								<div class="validation-contact">
-								<button class="btn btn-success">Envoyer</button>
+									<button class="btn btn-success">Envoyer</button>
 								</div>
 							</fieldset>
 						</form>

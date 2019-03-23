@@ -8,16 +8,16 @@
 		<div class="container">
 			<div class="col-md-6 col-sm-12 col-xs-12">
 				<div class="media">
-					<div class="text-center"><h2 class="page-header">Le sens des sentiments</h2></div>
-					
+					<div class="text-center">
+						<h2 class="page-header">Le sens des sentiments</h2>
+					</div>
 					<div class="film-card">
-						<a href="#"  class=""><img class="movie-video" src="/assets/img/film1.jpg" alt="poster5">
-				<i class="trailer glyphicon glyphicon-play-circle text-center"></i>						
+						<a href="#"  class="">
+							<img class="movie-video" src="/assets/img/film1.jpg" alt="poster5">
+							<i class="trailer glyphicon glyphicon-play-circle text-center"></i>
 						</a>
-						</div> 
-						
+					</div>
 				</div>
-
 				<div class="col-md-12 col-sm-12 col-xs-12 synopsis">
 					<h3>Synopsis</h3>
 					<p class="text-justify">
@@ -26,7 +26,9 @@
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-12 col-xs-12">
-				<div class="text-center"><h2 class="page-header">Les séances</h2></div>
+				<div class="text-center">
+					<h2 class="page-header">Les séances</h2>
+				</div>
 				<div class="col-md-12 col-sm-12 col-xs-12">
 					<ul class="nav nav-pills nav-justified">
 						<li class="active"><a href="#poster1" data-toggle="tab">08 Mars 2019</a></li>
@@ -79,17 +81,16 @@
 					<br>
 					<div class="row">
 						<div class="col-md-6 col-sm-6 col-xs-6">
-						
 							<button type="button" class="btn btn-success">
 								<span class="glyphicon glyphicon-ok-sign"><a href="inscription.php"> Inscription !</a></span>
 							</button>
-							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<?php require_once 'include/footer.php';?>
+</div>
+<?php require_once 'include/footer.php';?>
 </body>
 </html>

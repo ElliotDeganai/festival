@@ -12,7 +12,9 @@
 						<a href="#" class="cine-img"><img class="cine-img img-rounded img-responsive" src="/assets/img/cine.png" alt="cinema"></a>
 					</div>
 					<div  class="col-md-6 col-sm-12 col-xs-12">
-						<div class="text-center"><h2 class="page-header">Inscrivez-vous!</h2></div>
+						<div class="text-center">
+							<h2 class="page-header">Inscrivez-vous!</h2>
+						</div>
 						<form method="post" action="#">
 							<fieldset>
 								<legend>
@@ -41,16 +43,12 @@
 										<label  class="col-md-12 col-sm-12 col-xs-12">S'inscrire à la newsletter <input type="checkbox"></label>
 									</p>
 								</div>
-								
-								
 								<p class="row">
 									<label for="precisions" class="col-md-12 col-sm-12 col-xs-12">Si "Autre", veuillez préciser:</label>
 									<br>
 									<textarea name="precisions" id="precisions" class="col-md-12 col-sm-12 col-xs-12 form-control" rows="4"></textarea>
 									<br>
 								</p>
-								
-								
 								<div class="validation-inscription">
 									<button class="btn btn-success">Envoyer</button>
 								</div>
