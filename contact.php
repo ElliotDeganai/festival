@@ -4,7 +4,7 @@
 		<?php require_once 'include/head.php';?>
 	</head>
 	<body>
-		<?php require_once 'include/header.php';?>
+		<?php require_once 'include/header_img.php';?>
 		<section id="formulaire">
 			<div class="container">
 				<div class="row">
@@ -33,25 +33,27 @@
 								<div class="form-group">
 									<p class="row">
 										<label for="nom" class="col-md-6 col-sm-6 col-xs-6">Nom:</label>
-										<input type="text" name="nom" id="nom" class="col-md-6 col-sm-6 col-xs-6"/>
+										<input type="text" name="nom" id="nom" class="col-md-6 col-sm-6 col-xs-6 form-control"/>
 									</p>
 									<p class="row">
 										<label for="prenom" class="col-md-6 col-sm-6 col-xs-6">Prénom:</label>
-										<input type="text" name="prenom" id="prenom" class="col-md-6 col-sm-6 col-xs-6"/>
+										<input type="text" name="prenom" id="prenom" class="col-md-6 col-sm-6 col-xs-6 form-control"/>
 									</div>
 								</p>
 								<div class="form-group">
 									<p class="row">
 										<label for="email" class="col-md-6 col-sm-6 col-xs-6">Adresse email:</label>
-										<input type="email" name="email" id="email" class="col-md-6 col-sm-6 col-xs-6"/>
+										<input type="email" name="email" id="email" class="col-md-6 col-sm-6 col-xs-6 form-control"/>
 									</p>
 								</div>
 								<p class="row">
 									<label for="precisions" class="col-md-12 col-sm-12 col-xs-12">Quelles sont vos remarques?</label>
 									<br>
-									<textarea name="precisions" id="precisions" class="col-md-12 col-sm-12 col-xs-12" rows="4"></textarea>
+									<textarea name="precisions" id="precisions" class="col-md-12 col-sm-12 col-xs-12 form-control" rows="4"></textarea>
 								</p>
+								<div class="validation-contact">
 								<button class="btn btn-success">Envoyer</button>
+								</div>
 							</fieldset>
 						</form>
 					</div>

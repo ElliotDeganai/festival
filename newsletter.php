@@ -4,7 +4,7 @@
 		<?php require_once 'include/head.php';?>
 	</head>
 	<body>
-		<?php require_once 'include/header.php';?>
+		<?php require_once 'include/header_img.php';?>
 		<div class="container">
 			<div class="col-md-12">
 			
@@ -12,10 +12,10 @@
 			<div class="text-center"><h2 class="page-header">News du festival</h2></div>
 					
 					
-					<div class="col-md-12">
+					<div class="col-md-12 col-sm-12 col-xs-12">
 					
 					<div class="col-md-6 col-sm-6 col-xs-12 news-first">
-						<a href="/page_film.php" class=""><img class="" src="/assets/img/serie5.jpg" alt="poster3"></a>
+						<a href="/page_film.php" class=""><img class="img-responsive" src="/assets/img/serie5.jpg" alt="poster3"></a>
 
 					</div>
 					
@@ -78,20 +78,22 @@
 							<div class="form-group">
 								<p class="row">
 									<label for="nom" class="col-md-6 col-sm-6 col-xs-6">Nom:</label>
-									<input type="text" name="nom" id="nom" class="col-md-6 col-sm-6 col-xs-6"/>
+									<input type="text" name="nom" id="nom" class="col-md-6 col-sm-6 col-xs-6 form-control"/>
 								</p>
 								<p class="row">
 									<label for="prenom" class="col-md-6 col-sm-6 col-xs-6">Prénom:</label>
-									<input type="text" name="prenom" id="prenom" class="col-md-6 col-sm-6 col-xs-6"/>
+									<input type="text" name="prenom" id="prenom" class="col-md-6 col-sm-6 col-xs-6 form-control"/>
 								</div>
 							</p>
 							<div class="form-group">
 								<p class="row">
 									<label for="email" class="col-md-6 col-sm-6 col-xs-6">Adresse email:</label>
-									<input type="email" name="email" id="email" class="col-md-6 col-sm-6 col-xs-6"/>
+									<input type="email" name="email" id="email" class="col-md-6 col-sm-6 col-xs-6 form-control"/>
 								</p>
 							</div>
+							<div class="validation-inscription">
 							<button class="btn btn-success">Envoyer</button>
+							</div>
 						</fieldset>
 					</form>
 				</div>

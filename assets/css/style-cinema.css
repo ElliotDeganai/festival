@@ -142,7 +142,7 @@ footer
 
 @media (max-width: 769px)
 {
-#nav-footer
+.footer
 {
 	padding-bottom: 40px !important;
 }
@@ -214,7 +214,7 @@ footer
 {
 	.text-size
 	{
-		font-size: 1.2rem !important;
+		font-size: 1rem !important;
 	}
 }
 
@@ -757,6 +757,9 @@ h2.page-header {
     outline: none;
 	font-size: 1.5rem !important;
 	font-family: 'Ubuntu', sans-serif;
+	overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 	
 }
 
@@ -818,7 +821,7 @@ li, ol, ul {
 
 .col-centered img
 {
-	width: 150px !important;
+	width: 100% !important;
 	height: 200px !important;
 	object-fit: cover;	
 }
@@ -828,7 +831,7 @@ li, ol, ul {
 {
 .col-centered img
 {
-	width: 150px !important;
+	width: 100% !important;
 	height: 200px !important;
 	object-fit: cover;	
 }
@@ -839,7 +842,7 @@ li, ol, ul {
 {
 .col-centered img
 {
-	width: 150px !important;
+	width: 100% !important;
 	height: 200px !important;
 	object-fit: cover;	
 }
@@ -851,7 +854,7 @@ li, ol, ul {
 .col-centered img
 {
 
-	width: 150px !important;
+	width: 100% !important;
 	height: 200px !important;
 	object-fit: cover;	
 
@@ -864,7 +867,7 @@ li, ol, ul {
 .col-centered img
 {
 
-	width: 250px !important;
+	width: 100% !important;
 	height: 200px !important;
 	object-fit: cover;	
 
@@ -889,6 +892,12 @@ li, ol, ul {
 	height: 200px !important;
 	object-fit: cover;
 	
+}
+
+.movie-video {
+    width: 100% !important;
+    height: 300px !important;
+    object-fit: cover;
 }
 
 .col-centered>a {
@@ -1096,7 +1105,7 @@ a:focus, a:hover {
 
 .news-first img
 {
-	width: 500px !important;
+	width: 100% !important;
 	height: 300px !important;
 	object-fit: cover;
 }
@@ -1117,7 +1126,7 @@ a:focus, a:hover {
 
 .news-first img
 {
-	width: 500px !important;
+	width: 100% !important;
 	height: 300px !important;
 	object-fit: cover;
 }
@@ -1138,7 +1147,7 @@ a:focus, a:hover {
 
 .news-first img
 {
-	width: 300px !important;
+	width: 100% !important;
 	height: 250px !important;
 	object-fit: cover;
 }
@@ -1159,7 +1168,7 @@ a:focus, a:hover {
 
 .news-first img
 {
-	width: 300px !important;
+	width: 100% !important;
 	height: 200px !important;
 	object-fit: cover;
 }
@@ -1177,7 +1186,7 @@ a:focus, a:hover {
 
 .news img
 {
-	width: 300px !important;
+	width: 100% !important;
 	height:200px !important;
 	object-fit: cover;
 }
@@ -1220,10 +1229,11 @@ a:focus, a:hover {
 .news
 {
     position: relative;
+	padding-bottom: 15px;
 }
 
 
-@media (min-width: 992px){
+@media (min-width: 769px){
 div.sticky-top {
 
   position: fixed;
@@ -1267,6 +1277,14 @@ div.sticky-top {
 }
 }
 
+@media (max-width: 769px){
+div.sticky-top {
+
+	display: none;
+
+}
+}
+
 @media (max-width: 768px){
 div.sticky-bottom {
 
@@ -1294,9 +1312,9 @@ div.sticky-bottom {
 {
 	content: ' ';
 	position: absolute;
-	top: 0;
-	left: 0;
 	right: 0;
+	left: 0;
+	top: 0;
 	bottom: 0;
 	background-color: rgba(0, 0, 0, 0.4);
 	z-index: 60;
@@ -1307,8 +1325,10 @@ div.sticky-bottom {
 {
 	position: absolute;
 	z-index: 70;
+	right: 0;
+	left: 0;
 	top: 15%;
-	left: 35%;
+	bottom: 0;
 	text-align: center;	
 }
 }
@@ -1353,8 +1373,10 @@ div.sticky-bottom {
 {
 	position: absolute;
 	z-index: 70;
+	right: 0;
+	left: 0;
 	top: 15%;
-	left: 15%;
+	bottom: 0;
 	text-align: center;	
 }
 }
@@ -1416,3 +1438,50 @@ button.btn.btn-success
     line-height: 1.3333333;
     border-radius: 6px;
 }
+
+.poster-image
+{
+
+	background-image: url(/assets/img/pelicule7.jpg);
+	background-size: contain;
+	background-repeat: repeat;
+	height: 100%;
+	opacity: 0.7;
+
+}
+
+.header
+{
+	height: 50%;
+	padding-top: 50px;
+}
+
+.sticky-inscription-bottom:hover
+{
+
+	font-size: 2rem !important;
+    -webkit-transition: font-size 0.2s; /* Safari */
+    transition: font-size 0.2s;
+		top: 5%;
+
+}
+
+.sticky-inscription-top:hover
+{
+
+	font-size: 3rem !important;
+    -webkit-transition: font-size 0.2s; /* Safari */
+    transition: font-size 0.2s;
+
+}
+
+.validation-inscription
+{
+	text-align: right;
+}
+
+.validation-contact
+{
+	text-align: right;
+}
+

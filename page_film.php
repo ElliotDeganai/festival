@@ -4,14 +4,14 @@
 		<?php require_once 'include/head.php';?>
 	</head>
 	<body>
-		<?php require_once 'include/header.php';?>
+		<?php require_once 'include/header_img.php';?>
 		<div class="container">
 			<div class="col-md-6 col-sm-12 col-xs-12">
 				<div class="media">
 					<div class="text-center"><h2 class="page-header">Le sens des sentiments</h2></div>
 					
 					<div class="film-card">
-						<a href="#"  class=""><img class="col-side" src="/assets/img/film1.jpg" alt="poster5">
+						<a href="#"  class=""><img class="movie-video" src="/assets/img/film1.jpg" alt="poster5">
 				<i class="trailer glyphicon glyphicon-play-circle text-center"></i>						
 						</a>
 						</div> 
@@ -79,6 +79,7 @@
 					<br>
 					<div class="row">
 						<div class="col-md-6 col-sm-6 col-xs-6">
+						
 							<button type="button" class="btn btn-success">
 								<span class="glyphicon glyphicon-ok-sign"><a href="inscription.php"> Inscription !</a></span>
 							</button>
