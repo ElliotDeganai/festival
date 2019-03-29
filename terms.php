@@ -76,7 +76,9 @@
 					<p>
 						Notre Service de Voyage est uniquement disponible pour une utilisation privée et non commerciale. Vous ne pouvez donc pas revendre, utiliser, copier, surveiller (par exemple, par le biais d’un robot d’indexation ou de captures de données d’écran), afficher, télécharger, reproduire ou établir des liens profonds vers tout contenu ou toute information, réservation, tout logiciel, billet et/ou tous produits ou services disponibles sur notre Plateforme dans le cadre d’une activité ou d’un objectif commercial ou concurrentiel.
 					</p>
+					
 					<h2>2. Tarifs, tarifs barrés et « Nous ajustons nos tarifs ! »</h2>
+					
 					<p>
 						Les tarifs proposés par les Fournisseurs de Voyage sur notre Plateforme sont très compétitifs. Tous les tarifs affichés pour votre séjour comprennent la TVA, les taxes de vente (soumises à modification) et les frais, sauf mention contraire sur notre Plateforme ou sur l’e-mail de confirmation de réservation/le billet. Les tarifs des billets sont indiqués par personne ou par groupe et sont soumis à validité ou expiration comme précisé sur le billet, le cas échéant. Les frais et taxes applicables (y compris la taxe de séjour/touristique) peuvent être facturés par le Fournisseur de Voyage en cas de non-présentation ou d'annulation.
 					</p>
@@ -101,14 +103,18 @@
 					<p>
 						Toutes les offres spéciales et promotions sont indiquées comme telles. Si elles ne sont pas indiquées comme telles, vous ne pouvez vous prévaloir d'aucun droit en cas d'erreur manifeste.
 					</p>
+					
 					<h2>3. Confidentialité des informations et cookies</h2>
+					
 					<p>
 						Chalets&amp;Caviar respecte vos données personnelles. Veuillez consulter notre 
 						<strong>p</strong>
 						<strong>age Confidentialité et Cookies</strong>
 						 pour de plus amples informations.
 					</p>
+					
 					<h2>4. Gratuit pour les consommateurs, seuls les Fournisseurs de Voyage paient !</h2>
+					
 					<p>
 						Sauf mention contraire, notre service est gratuit pour les consommateurs car, à la différence de nombreuses autres sociétés, nous ne vous facturerons pas pour notre Service de Voyage et nous n'ajouterons aucun frais supplémentaires (de réservation) au tarif. Vous paierez le montant correspondant tel qu'indiqué sur la Réservation de Voyage (plus, dans la mesure où ils ne sont pas compris dans le tarif, les taxes, impôts et frais applicables, le cas échéant) au Fournisseur de Voyage.
 					</p>
@@ -118,7 +124,9 @@
 					<p>
 						Seuls les Fournisseurs de Voyage ayant une relation commerciale avec Chalets&amp;Caviar (dans le cadre d'un accord) seront rendus disponibles sur la Plateforme (pour la promotion de leur produit B2B et/ou B2C). Chalets&amp;Caviar n'est pas une plateforme ouverte (comme Amazon ou eBay) sur laquelle les utilisateurs finaux peuvent rendre leur produit disponible (il ne s'agit pas d'une plateforme C2C). Chalets&amp;Caviar ne permet pas aux parties non professionnelles de proposer ou de vendre leurs produits sur ou via Chalets&amp;Caviar.
 					</p>
+					
 					<h2>5. Carte de crédit ou virement bancaire</h2>
+					
 					<p>
 						Si applicable et disponible, certains Fournisseurs de Voyage offrent la possibilité que les Réservations de Voyage soient payées (en totalité ou partiellement, selon les conditions de paiement du Fournisseur de Voyage) au Fournisseur de Voyage lors de la Réservation du Voyage grâce à des moyens de paiement en ligne sécurisés (dans la mesure de l'offre proposée par votre banque). Pour certains produits et services, Chalets&amp;Caviar s'occupe du paiement (via un processeur de paiement tiers) du produit ou service concerné (par ex. : le service facilitant le paiement) pour et au nom du Fournisseur de Voyage concerné (Chalets&amp;Caviar n'agit et n'opère jamais en tant que commerçant). Le paiement est réalisé de manière sécurisée depuis votre carte de crédit/débit ou votre compte bancaire, par l'intermédiaire d’un processeur de paiement tiers. Tout paiement que nous gérons pour vous et transférons au Fournisseur de Voyage constitue dans chaque cas le règlement définitif (bevrijdende betaling) du tarif dû de la réservation (ou d'une partie de celui-ci) en votre nom pour le produit ou service correspondant et il ne vous sera pas possible de demander le remboursement de cette somme.
 					</p>
@@ -128,7 +136,9 @@
 					<p>
 						En cas d'utilisation frauduleuse de votre carte de crédit ou d'utilisation non autorisée de celle-ci par des tiers, la plupart des banques et des sociétés émettrices de cartes de crédit couvrent le risque et assument tous les frais résultant de ladite fraude ou utilisation non autorisée, déduction faite d'une franchise éventuelle (généralement fixée à 50 EUR ou l'équivalent dans votre devise locale). Si votre banque ou société de carte de crédit facture cette franchise à la suite d'une transaction non autorisée résultant d'une réservation effectuée sur notre Plateforme, nous vous remboursons ladite franchise à hauteur d'un montant maximum de 50 EUR (ou l'équivalent dans votre devise locale). Afin que nous puissions procéder à votre indemnisation, assurez-vous d'avoir informé votre banque ou société émettrice de carte de crédit de cette fraude ou utilisation non autorisée (conformément à leurs règlements et procédures d'information) et veuillez nous contacter immédiatement par e-mail (customer.relations@Chalets&amp;Caviar). Veuillez indiquer « Utilisation frauduleuse d'une carte de crédit » dans l'objet de votre e-mail et nous fournir une preuve de la franchise (par ex. une copie des conditions de l'établissement bancaire). Cette indemnisation s'applique uniquement aux réservations effectuées par carte bancaire sur le serveur sécurisé de Chalets&amp;Caviar, et si l'utilisation non autorisée de votre carte de crédit résulte d'une erreur ou négligence de notre part et non pas d'une erreur de votre part lors de l'utilisation dudit serveur sécurisé.
 					</p>
+					
 					<h2>6. Prépaiement, annulation, non-présentation et informations importantes</h2>
+					
 					<p>
 						En effectuant une Réservation de Voyage avec un Fournisseur de Voyage, vous reconnaissez avoir lu et accepté les conditions d’annulation et de non-présentation du Fournisseur de Voyage, ainsi que toutes les conditions supplémentaires (de prestation) dudit Fournisseur de Voyage pouvant s’appliquer à votre Voyage (notamment les informations importantes du Fournisseur de Voyage disponibles sur notre Plateforme et les règles de la maison du Fournisseur de Voyage), y compris pour les services rendus et/ou les produits proposés par le Fournisseur de Voyage. Les conditions générales pertinentes (de vente/d'achat/d'utilisation/de transport) d'un Fournisseur de Voyage peuvent être obtenues auprès du Fournisseur de Voyage pertinent. Les conditions générales d’annulation et de non-présentation propres à chaque Fournisseur de Voyage sont indiquées sur les pages d'informations du Fournisseur de Voyage de notre Plateforme ; elles sont également rappelées au cours du processus de réservation et dans l’e-mail ou le billet (le cas échéant) de confirmation. Veuillez noter que certains tarifs, frais ou certaines offres spéciales ne permettent pas d'annuler, de modifier la réservation ou de prétendre à un remboursement. Les taxes de séjour applicables peuvent être prélevées par le Fournisseur de Voyage même en cas de non-présentation ou d'annulation payante. Vous êtes donc invité(e) à bien prendre connaissance des détails (de la réservation) du produit ou service de votre choix, pour être au courant des conditions avant d’effectuer votre réservation. Les Réservations de Voyage exigeant un acompte ou un prépaiement (total ou partiel) peuvent être annulées (sans avertissement ou avis de défaut préalables) si le ou les montants (ou soldes) demandés ne sont pas reçus dans leur totalité à la date de paiement convenue, selon les conditions de paiement du Fournisseur de Voyage et de la réservation correspondantes. Les conditions d'annulation et de prépaiement varient en fonction du type de segment, de produit ou de service de chaque Voyage. Veuillez lire attentivement les informations importantes (indiquées en dessous des types de Voyage ou en bas de la page de chaque Fournisseur de Voyage sur notre Plateforme) ainsi que les informations utiles sur votre confirmation de réservation relatives aux conditions supplémentaires pouvant être appliquées par le Fournisseur de Voyage (concernant notamment l'âge minimum, le dépôt de garantie, les lits d'appoint, les petits-déjeuners non compris, les animaux domestiques, les cartes acceptées et les conditions spéciales s'appliquant aux groupes, comme des frais supplémentaires ou des annulations non possibles). Vous serez considéré responsable de tout retard de paiement, de toutes coordonnées bancaires, de carte de crédit ou de débit erronées, de toute carte de crédit/débit non valide ou de tous fonds insuffisants et ne pourrez prétendre à aucun remboursement d'un prépaiement (non remboursable) sauf indication contraire dans les conditions de (pré)paiement et d'annulation du Fournisseur de Voyage.
 					</p>
@@ -138,7 +148,9 @@
 					<p>
 						En cas d'arrivée tardive le jour de l'enregistrement ou d'arrivée repoussée au lendemain, assurez-vous d'en informer le Fournisseur de Voyage (en temps utile/rapidement) afin qu'il soit mis au courant et n'annule pas votre (Réservation de) Voyage ni ne vous facture pour non-présentation. Notre Service Clients peut vous aider, le cas échéant, à informer le Fournisseur de Voyage. Chalets&amp;Caviar n'est en aucun cas tenue responsable des conséquences liées à votre arrivée tardive ou de toute facturation d'annulation ou de non-présentation réalisée par le Fournisseur de Voyage.
 					</p>
+					
 					<h2>7. Correspondances et communications (futures)</h2>
+					
 					<p>
 						En effectuant une Réservation de Voyage, vous acceptez de recevoir (i) un e-mail que nous pourrons vous faire parvenir avant votre date d’arrivée dans l'établissement, qui contiendra des informations sur votre destination et des offres pertinentes pour votre (Réservation de) Voyage (y compris des offres provenant de nos partenaires, si vous avez accepté de les recevoir), (ii) un e-mail après votre arrivée pour évaluer (votre expérience avec) le Fournisseur de Voyage et le Service de Voyage, et (iii) un e-mail que nous pourrons vous envoyer après la fin de votre séjour dans l'établissement, et qui vous invitera à remplir notre questionnaire de commentaires clients. Veuillez consulter notre page Confidentialités et Cookies pour obtenir plus de renseignements sur la façon dont nous pouvons vous contacter.
 					</p>
@@ -159,7 +171,9 @@
 						<a href="http://ec.europa.eu/odr"><strong>http://ec.europa.eu/odr</strong></a>
 						.
 					</p>
+					
 					<h2>8. Classement, programme de partenariat Établissements Préférés, étoiles et commentaires clients</h2>
+					
 					<p>
 						La configuration par défaut du classement des Fournisseurs sur notre Plateforme se présente sous la forme « Nos préférés » (ou toute autre formulation similaire) ; il s'agit du Classement par Défaut. Veuillez noter que le Classement par défaut se fait via un système complexe de classement entièrement automatique (algorithme) qui évolue continuellement dans l'objectif de faire en sorte que les internautes trouvent les hébergements qui leur correspondent de façon optimale. Chaque classement sera différent pour chaque client et pour chaque recherche effectuée étant donné que plusieurs critères sont pris en compte, notamment le niveau de popularité d'un établissement parmi nos internautes (estimé via les commentaires clients), l'historique du Service Clients (y compris le nombre et le type de plaintes), certaines données liées aux réservations (par ex., le nombre de réservations et d'annulations, le taux de conversion, les surréservations, les disponibilités, etc.), et l'historique de navigation et de recherches (passées) d'un internaute. Les paiements à jour et le pourcentage de la commission d’un établissement sont aussi compris dans l’algorithme du Classement par Défaut. Veuillez noter que pour plus de commodité, nous proposons également d'autres moyens de classer les Fournisseurs. À titre d'exemple, un client peut choisir de classer un hébergement sur la base du tarif le plus bas en premier, des commentaires clients, du type d'établissement, etc. Un client a donc le contrôle intégral sur la façon dont les résultats de recherche lui sont présentés.
 					</p>
@@ -185,7 +199,9 @@
 					<p>
 						Chalets&amp;Caviar et le Fournisseur de Voyage sont chacun en droit de mettre fin à leur partenariat quelle qu'en soit la raison (y compris en cas de manquement commis au regard du présent contrat ou de (mise en) faillite), dans le respect du délai de préavis tel que convenu entre les parties.
 					</p>
+					
 					<h2>9. Limitation de responsabilité</h2>
+					
 					<p>
 						Conformément aux limites établies dans les présentes conditions générales d’utilisation sauf disposition d’ordre public nationale contraire, nous ne pouvons être tenus responsables que si vous avez souffert, payé ou subi des dommages directs pouvant être imputés à un défaut de nos obligations dans le cadre de nos services. Ces dommages peuvent s’élever jusqu’au montant cumulé du coût total de votre réservation, tel qu’indiqué dans l’e-mail de confirmation de la Réservation du Voyage, qu’il s’agisse d’un événement isolé ou d’une série d’événements liés.
 					</p>
@@ -201,14 +217,18 @@
 					<p>
 						En téléchargeant des photos/images dans notre système (par exemple en envoyant un commentaire), vous certifiez et garantissez posséder le droit d’auteur des photos/images et vous acceptez que Chalets&amp;Caviar utilisent ces photos/images téléchargées sur ses sites Internet (mobile), applis, outils et publications promotionnelles (en ligne et hors ligne) lorsque Chalets&amp;Caviar le jugera, à sa discrétion, approprié. Vous accordez à Chalets&amp;Caviar un droit non exclusif, universel, irrévocable, inconditionnel et perpétuel ainsi que l’autorisation d’utiliser, reproduire, afficher, faire reproduire, distribuer, communiquer, accorder un droit de sous-licence et rendre disponible les photos/images lorsque Chalets&amp;Caviar le jugera, à sa discrétion, approprié. En téléchargeant ces photos, la personne les ayant téléchargées accepte l’entière responsabilité morale et juridique de toutes les plaintes juridiques faites par toute partie tiers (y compris, mais non limitée aux propriétaires d’hébergements) suite à l’affichage et l’utilisation de ces photos/images par Chalets&amp;Caviar. Chalets&amp;Caviar ne possède ni n’approuve les photos/images téléchargées. La véracité, la validité et le droit d’utilisation de toutes les photos/images téléchargées sont assumés par la personne ayant effectué le téléchargement de la photo/image et ne sont pas de la responsabilité de Chalets&amp;Caviar. Chalets&amp;Caviar décline toute responsabilité concernant les photos/images postées. La personne ayant effectué le téléchargement des photos/images assure que celles-ci ne contiennent aucun virus, cheval de Troie ou fichier infecté et n’ont aucun caractère pornographique, illégal, obscène, insultant, répréhensible ou inapproprié et n’enfreignent pas les droits de toute partie tiers (droit sur la propriété intellectuel, droit d’auteur et droit au respect de la vie privée). Toute photo/image ne remplissant pas les critères susmentionnés ne sera pas publiée et/ou pourra être effacée/supprimée à tout moment par Chalets&amp;Caviar sans notification préalable.
 					</p>
+					
 					<h2>10. Droits de propriété intellectuelle</h2>
+					
 					<p>
 						Sauf mention contraire, le logiciel nécessaire pour nos services ou mis à disposition sur notre Plateforme et utilisé par ce dernier, ainsi que les droits de propriété intellectuelle (y compris les droits d’auteur) des contenus, informations et matériels de notre Plateforme, sont la propriété exclusive de Chalets&amp;Caviar B.V., de ses Fournisseurs de Voyage ou de ses prestataires.
 					</p>
 					<p>
 						Chalets&amp;Caviar demeure l’unique propriétaire de tous les droits, titres et intérêts (relatifs à tous les droits de propriété intellectuelle) de la Plateforme (sa présentation et son infrastructure y compris) sur lequel le service est disponible (commentaires clients et traductions y compris). Par conséquent, vous n’êtes pas autorisé à copier, créer des liens (hypers ou profonds) vers notre contenu, publier, promouvoir, commercialiser, intégrer ou utiliser de toute autre manière notre contenu (y compris ses traductions et les commentaires clients) ou notre marque sans notre autorisation écrite formelle. Dans la mesure où vous utiliseriez (une partie ou l’intégralité de) notre contenu (traductions et commentaires clients inclus) ou détiendriez des droits de propriété intellectuelle sur notre Plateforme, notre contenu (traduit) ou nos commentaires clients, vous devrez céder, et transférer tous ces droits à Chalets&amp;Caviar. Toute utilisation illégale ou action susmentionnée constituera une violation substantielle de nos droits de propriété intellectuelle (droit d’auteur et droit sur la base de données inclus).
 					</p>
+					
 					<h2>11. Divers</h2>
+					
 					<p>
 						Sauf disposition d’ordre public nationale contraire, les présentes conditions générales d'utilisation ainsi que les prestations de nos services seront régies et interprétées conformément à la législation néerlandaise, et tout litige résultant des présentes conditions générales d'utilisation et de nos services sera exclusivement soumis aux tribunaux compétents à Amsterdam, aux Pays-Bas.
 					</p>
@@ -218,7 +238,9 @@
 					<p>
 						Si l’une des dispositions de ces conditions générales d’utilisation est ou devient invalide, non-exécutoire ou non-contraignante, vous demeurez lié par toutes les autres dispositions établies dans ces conditions. Si tel est le cas, les dispositions invalides devront être appliquées sauf disposition d’ordre public nationale contraire et vous acceptez de vous conformer à des dispositions qui auraient les mêmes effets que les termes invalides, non-exécutoires ou non-contraignants de ces conditions générales d’utilisation.
 					</p>
+					
 					<h2>12. À propos de Chalets&amp;Caviar et des bureaux locaux</h2>
+					
 					<p>
 						Le Service de Voyage est fourni par Chalets&amp;Caviar B.V., une société privée à responsabilité limitée enregistrée aux Pays-Bas et dont les bureaux sont situés à Herengracht 597, 1017 CE, Amsterdam, Pays-Bas. La société est immatriculée au registre de la Chambre de Commerce et de l'Industrie d’Amsterdam sous le numéro 31047344. Le numéro de TVA est le NL805734958B01.
 					</p>

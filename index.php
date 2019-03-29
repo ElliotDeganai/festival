@@ -117,7 +117,7 @@
 							<a href="#"><span class="glyphicon glyphicon-play-circle pull-right"></span></a>
 						</li>
 					</ul>
-					<a class="list-complete" href="/liste.php">La liste complète de films</a>
+					<div class="pull-right"><a class="list-complete" href="/liste.php">La liste complète de films</a></div>
 				</div>
 			</section>
 			<section>

@@ -215,6 +215,19 @@ button.btn.btn-success
   z-index: 10;
 }
 
+.header .poster-image:before
+{
+  content: ' ';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,.4);
+  z-index: 60;
+  height: 20%;
+}
+
 @media (min-width:992px) and (max-width:1199px)
 {
   .carousel-caption>h4
@@ -623,6 +636,30 @@ div.col-md-2
   padding-bottom: 0;
 }
 
+.form-group .col-md-6
+{
+	padding-right: 0!important;
+    padding-left: 0!important;
+}
+
+.form-group .col-sm-6, .form-group .col-xs-6
+{
+	padding-right: 0!important;
+    padding-left: 0!important;
+}
+
+label.col-md-12, label.col-sm-12, label.col-xs-12
+{
+	padding-right: 0!important;
+    padding-left: 0!important;
+}
+
+label.col-sm-12, label.col-xs-12
+{
+	padding-right: 0!important;
+    padding-left: 0!important;
+}
+
 /************************************************************************************************************************************/
 /***** text-format *****/
 /************************************************************************************************************************************/
@@ -682,6 +719,7 @@ textarea
   font-weight: 700!important;
   font-size: 2rem!important;
   color: #333;
+  padding-top: 15px;
 }
 
 .author
@@ -706,7 +744,7 @@ textarea
 
 .header
 {
-  height: 50%;
+  height: 20%;
   padding-top: 50px;
 }
 
@@ -1297,8 +1335,9 @@ li,ol,ul
 .list-complete
 {
   font-weight: 700;
-  color: #000;
-  font-size: 2rem;
+  color: #CC0000;
+  font-size: 1.5rem;
+  text-align: right;
 }
 
 /************************************************************************************************************************************/
